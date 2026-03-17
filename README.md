@@ -1,27 +1,56 @@
-# ProjetoAngular
+# 🎮 Game Store - Projeto SENAI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+Este projeto foi desenvolvido como parte do curso no **SENAI**, com o objetivo de colocar em prática os conceitos de desenvolvimento Front-end utilizando o framework **Angular**.
 
-## Development server
+O projeto consiste em uma loja de games (Game Store) com componentes estruturados, integração com Angular Material e Bootstrap.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🛠️ Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* **Angular CLI:** Versão 15.2.11
+* **Angular Material:** Componentes de UI (Toolbar, Buttons, Cards, Icons)
+* **Bootstrap:** Grid e estilização responsiva
+* **Node.js:** Ambiente de execução
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Como Rodar o Projeto
 
-## Running unit tests
+Para executar este projeto localmente, siga os passos abaixo:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 1. Clonar ou baixar o projeto
+Se você estiver usando Git:
+```bash
+git clone [link-do-seu-repositorio]
+```
 
-## Running end-to-end tests
+### 2. Instalar as dependências
+omo este projeto utiliza uma versão específica do Angular para manter a compatibilidade com o material didático, certifique-se de configurar o CLI globalmente.
+Abra o terminal dentro da pasta do projeto e execute:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+npm install -g @angular/cli@15.2.11
+```
 
-## Further help
+### 3. Iniciar o servidor de desenvolvimento
+Após a instalação, inicie o projeto com o comando:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+ng serve
+```
+
+### 4. Acessar o App
+
+Abra o seu navegador e acesse:
+
+http://localhost:4200/
+
+O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
+
+------
+**Desenvolvido para fins educacionais no SENAI.**
+
+---
+
