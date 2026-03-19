@@ -22,7 +22,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 ### 1. Clonar ou baixar o projeto
 Se você estiver usando Git:
 ```bash
-git clone [link-do-seu-repositorio]
+git clone https://github.com/Pedrin0030/game-store.git
 ```
 
 ### 2. Instalar as dependências
